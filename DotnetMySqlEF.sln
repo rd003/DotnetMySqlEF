@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetMySqlEF.Api", "DotnetMySqlEF.Api\DotnetMySqlEF.Api.csproj", "{09E89529-2C09-497E-A9AB-0E6E562B65DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetMySqlEF.Data", "DotnetMySqlEF.Data\DotnetMySqlEF.Data.csproj", "{6B72C402-4F65-4FF0-BF05-3BFB28EE740A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E89529-2C09-497E-A9AB-0E6E562B65DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E89529-2C09-497E-A9AB-0E6E562B65DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E89529-2C09-497E-A9AB-0E6E562B65DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E89529-2C09-497E-A9AB-0E6E562B65DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B72C402-4F65-4FF0-BF05-3BFB28EE740A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B72C402-4F65-4FF0-BF05-3BFB28EE740A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B72C402-4F65-4FF0-BF05-3BFB28EE740A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B72C402-4F65-4FF0-BF05-3BFB28EE740A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF30007A-33F5-47C7-9215-FB4DF573339B}
+	EndGlobalSection
+EndGlobal
